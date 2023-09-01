@@ -28,7 +28,16 @@ h1 {
     left: 205px;  
 }
 
-
+#title3 {
+    position: absolute; 
+    text-align: center;
+    color: rgb(139, 69, 19);
+    font-size: 65px;
+    font-family: 'Kanit', sans-serif;
+    top: 125px;
+    left: 205px;  
+    -webkit-text-stroke: 1px black;
+}
 
 h3 {
     width: 300px; 
@@ -107,6 +116,11 @@ h2 {
 
 #img2 {
     width: 100%; 
+}
+
+#img3 {
+    width: 100%;
+    opacity: 0.85; 
 }
 
 #title2:hover {
